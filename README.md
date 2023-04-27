@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aryan4433
+👋 Hi, I’m @Aryan4433
 - 🏫 I’m currently pursuing my graduation in Bachelor of Computer Application 
 - 📖 Currently doing Post Graduation in Data Science.
 - 👀 I’m interested in to deal with data and learn something new about technologies
