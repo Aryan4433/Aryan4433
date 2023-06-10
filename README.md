@@ -12,7 +12,7 @@
 </div>
 <div align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kumod-sharma-ab999124b/">
+  <a href="www.linkedin.com/in/aryan-monga-472972209">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/kdsharma">
