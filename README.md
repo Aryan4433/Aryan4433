@@ -62,4 +62,4 @@
 
 ### :fire: My Stats ::
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kumod007&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aryan4433&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
