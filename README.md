@@ -12,13 +12,13 @@
 </div>
 <div align="center">
 <div id="badges">
-  <a href="www.linkedin.com/in/aryan-monga-472972209">
+  <a href="https://www.linkedin.com/in/aryan-monga-472972209/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.kaggle.com/kdsharma">
+  <a href="https://www.kaggle.com/">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/Kumod_Sharma?hr_r=1">
+  <a href="">
     <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
 </div>
