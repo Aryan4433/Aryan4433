@@ -27,6 +27,7 @@
 <div align="left">
 
 ### :man_technologist: About Me :
+  
 - 👋 Hi, I’m @Aryan4433
 - 💡 I am an Aspiring Data Scientist from India.
 - 🏫 I’m currently pursuing my graduation in Bachelor of Computer Application 
