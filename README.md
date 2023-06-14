@@ -57,7 +57,7 @@
   <img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" title="Tableau" alt="Tableau" width="80" height="80"/>&nbsp;
  <img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" title="Microsoft Excel" alt="Microsoft Excel" width="50" height="50"/>&nbsp;
  <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Word-Logo-500x281.png" title="Microsoft Word" alt="Microsoft Word" width="80" height="50"/>&nbsp;
-   <img src=" https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo-500x500.png" title="Microsoft Word" alt="Microsoft Word" width="80" height="50"/>&nbsp;
+   <img src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo-500x500.png" title="Microsoft Word" alt="Microsoft Word" width="80" height="50"/>&nbsp;
  <img src="https://img.favpng.com/23/14/0/machine-learning-deep-learning-artificial-intelligence-supervised-learning-support-vector-machine-png-favpng-pk6kR3fbraDTCN1B9ijfqCV9K.jpg" title="C" alt="C" width="60" height="60"/>&nbsp;
  
 </div>
