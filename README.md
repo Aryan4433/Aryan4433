@@ -46,8 +46,6 @@
   <div>
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" title="python" alt="Python" width="60" height="60"/>&nbsp;
     <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/c-program-icon.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
-     <img src="https://img.favpng.com/23/14/0/machine-learning-deep-learning-artificial-intelligence-supervised-learning-support-vector-machine-png-favpng-pk6kR3fbraDTCN1B9ijfqCV9K.jpg" title="C" alt="C" width="60" height="60"/>&nbsp;
-    
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/90px-Pandas_mark.svg.png" title="Pandas (Software)" alt="Pandas (Software)" width="70" height="70"/>&nbsp;
   <img src="https://numpy.org/images/logo.svg" title="NumPy" alt="NumPy" width="70" height="70"/>&nbsp;
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>&nbsp;
@@ -59,6 +57,7 @@
   <img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" title="Tableau" alt="Tableau" width="80" height="80"/>&nbsp;
  <img src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" title="Microsoft Excel" alt="Microsoft Excel" width="50" height="50"/>&nbsp;
  <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Word-Logo-500x281.png" title="Microsoft Word" alt="Microsoft Word" width="80" height="50"/>&nbsp;
+ <img src="https://img.favpng.com/23/14/0/machine-learning-deep-learning-artificial-intelligence-supervised-learning-support-vector-machine-png-favpng-pk6kR3fbraDTCN1B9ijfqCV9K.jpg" title="C" alt="C" width="60" height="60"/>&nbsp;
  
 </div>
   
