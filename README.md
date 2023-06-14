@@ -46,6 +46,8 @@
   <div>
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" title="python" alt="Python" width="60" height="60"/>&nbsp;
     <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/c-program-icon.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fbrain-technology-unique-logo_414847-335.jpg%3Fw%3D2000&tbnid=asxWLgqpYjtVcM&vet=12ahUKEwjp7uWvmcL_AhVaOLcAHUNsCjsQMygGegUIARD-AQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fbrain-technology-unique-logo_35795966.htm&docid=lE2xtEL17zyJMM&w=2000&h=2000&q=Machine%20Learning%20logo&ved=2ahUKEwjp7uWvmcL_AhVaOLcAHUNsCjsQMygGegUIARD-AQ" title="C" alt="C" width="60" height="60"/>&nbsp;
+    
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/90px-Pandas_mark.svg.png" title="Pandas (Software)" alt="Pandas (Software)" width="70" height="70"/>&nbsp;
   <img src="https://numpy.org/images/logo.svg" title="NumPy" alt="NumPy" width="70" height="70"/>&nbsp;
   <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>&nbsp;
