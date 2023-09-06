@@ -31,7 +31,7 @@
 - 👋 Hi, I’m @Aryan4433
 - 💡 I am an Aspiring Data Scientist from India.
 - 📖 I’m completed my graduation in Bachelor of Computer Application
-- 🏫 Currently i'm purusing Masters in Master of Science in Data Science
+- 🏫 Currently i'm purusing Masters in MSC in Data Science
 - 👷‍♀️ I’m working on multiple datasets on Kaggle to enhance my Data Science Skills.
 - 🌱 Exploring Technical Content Writing.
 - 💞️ I’m looking to collaborate on data analysis and data visualization
